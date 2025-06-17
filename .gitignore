@@ -1,0 +1,34 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# VSCode
+.vscode/settings.json
+
+# Common
+*target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Misc
+.DS_Store
+__MACOSX
+*.versionsBackup
+
+/core/webview.dll
+/core/libwebview.so
+/core/libwebview.dylib
+/bridge/webview.dll
+/bridge/libwebview.so
+/bridge/libwebview.dylib
+/examples/webview.dll
+/examples/libwebview.so
+/examples/libwebview.dylib
+/webview.dll
+/libwebview.so
+/libwebview.dylib
+/webview2loader.dll
